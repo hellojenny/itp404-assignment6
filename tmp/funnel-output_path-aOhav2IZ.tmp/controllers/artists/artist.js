@@ -1,0 +1,1 @@
+/Users/jenny/Desktop/Databases/moderntech/crud-in-class/tmp/funnel-input_base_path-dm7NKEIG.tmp/0/controllers/artists/artist.js

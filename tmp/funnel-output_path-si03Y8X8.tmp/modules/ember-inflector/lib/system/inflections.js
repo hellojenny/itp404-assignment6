@@ -1,0 +1,1 @@
+/Users/jenny/Desktop/Databases/moderntech/crud-in-class/tmp/funnel-input_base_path-VKdzRNFZ.tmp/0/lib/system/inflections.js

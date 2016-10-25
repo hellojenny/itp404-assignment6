@@ -1,0 +1,1 @@
+/Users/jenny/Desktop/Databases/moderntech/crud-in-class/tmp/creator-output_path-6qJDEi7H.tmp/version.js
